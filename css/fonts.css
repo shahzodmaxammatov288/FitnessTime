@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'OpenSans-ExtraBold';
+    src: url(../Shrift/OpenSans-ExtraBold.ttf);
+}
+
+@font-face {
+    font-family: 'OpenSans-SemiBold';
+    src: url(../Shrift/OpenSans-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: 'OpenSans-Regular';
+    src: url(../Shrift/OpenSans-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'OpenSans-Light';
+    src: url(../Shrift/OpenSans-Light.ttf);
+}
+
+@font-face {
+    font-family: 'Roboto-Regular';
+    src: url(../Shrift/Roboto-Regular.ttf);
+}

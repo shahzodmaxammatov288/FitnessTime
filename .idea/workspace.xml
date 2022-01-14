@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ded379d0-5c85-4e9b-a564-4c7108baab3a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1vPKKuKFZPBF1BTKvxyy3qIk9gk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\Elastik Studios portfolio web page\images" />
+      <recent name="C:\Users\User\Desktop\Elastik Studios portfolio web page\Shrift" />
+      <recent name="C:\Users\User\Desktop\Elastik Studios portfolio web page\fonts" />
+      <recent name="C:\Users\User\Desktop\Shakhzod_Shablon_-_21\Shrift" />
+      <recent name="C:\Users\User\Desktop\Shakhzod_Shablon_-_20\Shrift" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ded379d0-5c85-4e9b-a564-4c7108baab3a" name="Default Changelist" comment="" />
+      <created>1626458226962</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626458226962</updated>
+      <workItem from="1626458236211" duration="14798000" />
+      <workItem from="1626529595227" duration="13012000" />
+      <workItem from="1626600268345" duration="5943000" />
+      <workItem from="1626697508157" duration="5787000" />
+      <workItem from="1626773445821" duration="71000" />
+      <workItem from="1626847757546" duration="18226000" />
+      <workItem from="1626936274465" duration="6816000" />
+      <workItem from="1626971564098" duration="165000" />
+      <workItem from="1626979851899" duration="867000" />
+      <workItem from="1627037119762" duration="10944000" />
+      <workItem from="1627130279911" duration="5639000" />
+      <workItem from="1627461230475" duration="9615000" />
+      <workItem from="1628098503342" duration="4478000" />
+      <workItem from="1628139031445" duration="11975000" />
+      <workItem from="1628186998831" duration="3374000" />
+      <workItem from="1628237721463" duration="6513000" />
+      <workItem from="1628268893891" duration="923000" />
+      <workItem from="1628408144954" duration="7779000" />
+      <workItem from="1628607748314" duration="9632000" />
+      <workItem from="1628666664240" duration="14120000" />
+      <workItem from="1631036168660" duration="7687000" />
+      <workItem from="1631087019079" duration="5918000" />
+      <workItem from="1631096710175" duration="4489000" />
+      <workItem from="1631120225559" duration="5587000" />
+      <workItem from="1631157779663" duration="24545000" />
+      <workItem from="1631290336432" duration="4760000" />
+      <workItem from="1631345330736" duration="17215000" />
+      <workItem from="1631461872357" duration="4400000" />
+      <workItem from="1631505300427" duration="6934000" />
+      <workItem from="1631523103235" duration="600000" />
+      <workItem from="1631896906107" duration="292000" />
+      <workItem from="1631901986528" duration="169000" />
+      <workItem from="1631902274012" duration="3323000" />
+      <workItem from="1631947098776" duration="7946000" />
+      <workItem from="1632111752089" duration="868000" />
+      <workItem from="1632152900435" duration="9024000" />
+      <workItem from="1632187138329" duration="2704000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="380" y="149" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1631381163053">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="380" y="149" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1631381163053" />
+    <state x="350" y="52" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1631037293777">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="350" y="52" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1631037293777" />
+    <state x="224" y="90" key="FileChooserDialogImpl" timestamp="1626962241765">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="224" y="90" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1626962241765" />
+    <state x="248" y="151" key="com.intellij.ide.util.TipDialog" timestamp="1632189789638">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="248" y="151" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1632189789638" />
+    <state x="255" y="159" key="run.anything.popup" timestamp="1631462261630">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="255" y="159" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1631462261630" />
+    <state x="262" y="-1" key="search.everywhere.popup" timestamp="1631290500862">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="262" y="-1" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1631290500862" />
+    <state x="403" y="261" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1631506831253">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="403" y="261" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1366.728@0.0.1366.728" timestamp="1631506831253" />
+  </component>
+</project>
